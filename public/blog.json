@@ -1,0 +1,57 @@
+[
+  {
+    "id": "001",
+    "cover_image": "https://images.unsplash.com/photo-1505839673365-e3971f8d9184",
+    "author_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce",
+    "author_name": "Emily Turner",
+    "title": "The Future of Renewable Energy",
+    "publish_date": "2024-05-20",
+    "short_description": "An in-depth look at the latest advancements in renewable energy technology and their potential impact on the global energy market.",
+    "reading_time": "8 minutes",
+    "hashtags": ["#RenewableEnergy", "#Technology", "#Sustainability"]
+  },
+  {
+    "id": "002",
+    "cover_image": "https://images.unsplash.com/photo-1538688423619-78fcb3771b26",
+    "author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    "author_name": "David Johnson",
+    "title": "Exploring the Wonders of Quantum Computing",
+    "publish_date": "2024-06-10",
+    "short_description": "This article explores the principles of quantum computing and its potential applications in various industries.",
+    "reading_time": "10 minutes",
+    "hashtags": ["#QuantumComputing", "#Innovation", "#TechTrends"]
+  },
+  {
+    "id": "003",
+    "cover_image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "author_image": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+    "author_name": "Sarah Lee",
+    "title": "A Journey Through the World's Most Exotic Destinations",
+    "publish_date": "2024-04-15",
+    "short_description": "Join us on a journey through some of the most breathtaking and exotic travel destinations around the world.",
+    "reading_time": "7 minutes",
+    "hashtags": ["#Travel", "#ExoticDestinations", "#Adventure"]
+  },
+  {
+    "id": "004",
+    "cover_image": "https://images.unsplash.com/photo-1510414696678-2415ad8474aa",
+    "author_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "author_name": "Michael Smith",
+    "title": "The Rise of Artificial Intelligence in Healthcare",
+    "publish_date": "2024-03-30",
+    "short_description": "An exploration of how AI is transforming healthcare, from diagnostics to treatment and beyond.",
+    "reading_time": "9 minutes",
+    "hashtags": ["#ArtificialIntelligence", "#Healthcare", "#AI"]
+  },
+  {
+    "id": "005",
+    "cover_image": "https://images.unsplash.com/photo-1517430816045-df4b7de20b65",
+    "author_image": "https://images.unsplash.com/photo-1519340333755-5063e58e4505",
+    "author_name": "Jessica Brown",
+    "title": "The Impact of Social Media on Modern Communication",
+    "publish_date": "2024-02-25",
+    "short_description": "This article examines the effects of social media on the way we communicate and interact with one another.",
+    "reading_time": "6 minutes",
+    "hashtags": ["#SocialMedia", "#Communication", "#DigitalAge"]
+  }
+]
